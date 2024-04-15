@@ -2,6 +2,6 @@
   "name": "Mitra Test Operator #1",
   "website": "https://x.com/rekpero",
   "description": "I'm testing AVS operator deploy in 1 click",
-  "logo": "https://bafybeigafgrnhudggwnlsbhjguidny5fms6pihpkjfdielqn46ww3ap5km.ipfs.sphn.link/avs-logo.png",
+  "logo": "https://raw.githubusercontent.com/rekpero/eigen-avs/main/avs-logo.png",
   "twitter": "https://x.com/rekpero"
 }
